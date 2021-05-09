@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <!-- META etiquetas -->
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="keywords" content="todo, fedeperin, todo list, vanilla js">
+    <meta name="description" content="Una ToDo list hecha con vanilla javascript, HTML y CSS">
+
+    <!-- Título -->
+    <title>Todo List</title>
+
+    <!-- Link al ícono del ✔ -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✔</text></svg>">
+
+    <!-- Bootstrap Icons -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.min.css">
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="./estilos.css">
+
+    <!-- JS con atributo defer para que se cargue después que todo -->
+    <script src="./app.js" defer></script>
+</head>
+<body>
+    <!-- Título -->
+    <h1>ToDo</h1>
+
+    <!-- Formulario -->
+    <form>
+        <input type="text" placeholder="Nuevo Item...">
+        <button type="submit">Agregar</button>
+    </form>
+
+    <!-- Contenedor de items -->
+    <div class="items"></div>
+
+    <!-- Eliminar todo -->
+    <button class="eliminar-todo">Eliminar todo</button>
+    
+    <!-- GitHub -->
+    <i class="bi bi-github"></i>
+</body>
+</html>
