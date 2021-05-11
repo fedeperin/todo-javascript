@@ -1,7 +1,8 @@
 # Todo Javascript
 Un ToDo simple hecho con HTML, CSS y JavaScript. <br>
-Sitio en Netlify: https://mi-todo-javascript.netlify.app/
-Sitio en GitHub Pages: https://fedeperin.github.io/todo-javascript/
+##### Está subido a:
+- Netlify: https://mi-todo-javascript.netlify.app/
+- GitHub Pages: https://fedeperin.github.io/todo-javascript/
 <br>
 <br>
 
