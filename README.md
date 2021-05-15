@@ -6,4 +6,4 @@ Un ToDo simple hecho con HTML, CSS y Vanilla JavaScript. <br>
 <br>
 <br>
 
-También utilizé <a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a>
+También utilizé <a href="https://icons.getbootstrap.com/" target="_blank">Bootstrap Icons</a> Para el ícono de GitHub y el que se utiliza para eliminar items
