@@ -1,4 +1,4 @@
-# TODO con Javascript
+# TODO con JavaScript
 Un ToDo simple hecho con HTML, CSS y Vanilla JavaScript.<br>
 ##### Encontralo en...
 - Netlify: https://mi-todo-javascript.netlify.app/
