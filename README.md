@@ -1,5 +1,5 @@
 # ToDo con JavaScript
-Un ToDo simple hecho con HTML, CSS y Vanilla JavaScript.<br>
+Un ToDo simple hecho solo con HTML, CSS y Vanilla JavaScript.<br>
 ##### Encontralo en...
 - Netlify: https://mi-todo-javascript.netlify.app/
 - GitHub Pages: https://fedeperin.github.io/todo-javascript/
